@@ -56,5 +56,8 @@
             "replace": false,
             "ignore-duplicates": true
         }
+    },
+    "config": {
+        "sort-packages": true
     }
 }
