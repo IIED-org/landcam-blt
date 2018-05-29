@@ -1,0 +1,15 @@
+dev:
+  root: /var/www/html/cfwildlife.dev/docroot
+  uri: cfwildlifeetczyst5ye.devcloud.acquia-sites.com
+  host: srv-6176.devcloud.hosting.acquia.com
+  user: cfwildlife.dev
+prod:
+  root: /var/www/html/cfwildlife.prod/docroot
+  uri: cfwildlife87usenjt8a.devcloud.acquia-sites.com
+  host: srv-6176.devcloud.hosting.acquia.com
+  user: cfwildlife.prod
+test:
+  root: /var/www/html/cfwildlife.test/docroot
+  uri: cfwildlife6pbaqtelkv.devcloud.acquia-sites.com
+  host: srv-6176.devcloud.hosting.acquia.com
+  user: cfwildlife.test
