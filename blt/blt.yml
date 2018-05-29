@@ -11,6 +11,8 @@ git:
   default_branch: master
   remotes:
     cloud: cfwildlife@svn-6076.devcloud.hosting.acquia.com:cfwildlife.git
+  commit-msg:
+    pattern: "/(.)+/"
 drush:
   aliases:
     remote: '${project.machine_name}.test'

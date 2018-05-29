@@ -5,7 +5,10 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "acquia/blt": "^9.0.3"
+        "acquia/blt": "^9.0.3",
+        "drupal/adaptivetheme": "^3.1",
+        "drupal/bootstrap": "^3.11",
+        "drupal/omega": "^5.0@alpha"
     },
     "require-dev": {
         "geerlingguy/drupal-vm": "^4.8"
